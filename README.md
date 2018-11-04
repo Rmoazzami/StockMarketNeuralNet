@@ -7,4 +7,4 @@ to feed into a neural network that is trained on the data
 (Goal was 250,000 data points but due to most clean datasets being sold at a premium we were only able to gather a fraction of
 that cleanly)
 
-The Neural Net's result was failure, although data collection could be considered a success 
+The Neural Net's result was failure (predicted positive, nuetral, and negagtive shifts 33% of the time each), although data collection could be considered a success the results imply there is no general correlation between the average news article and the price of the stock.
